@@ -1,0 +1,40 @@
+*{
+    background-color: black;
+}
+input{
+    color: white;
+    margin-top: 15px;
+}
+.space{
+    margin-top: 20px;
+    padding-right: 10px;
+}
+.btn{
+    color: black;
+    background-color: white;
+    padding: 8px 30px;
+}
+h1{
+    align-items: left;
+    margin: 10px auto 5px;
+    font-family:sans-serif;
+}
+a{
+    color: white;
+    font-size: medium;
+}
+.text-field{
+    width: 70vh;
+    /* margin-top: 30px; */
+    border: none;
+    border-bottom: 2px solid white;
+    color: white;
+    font-size: medium;
+    padding: 8px 3px;
+}
+div{
+    color: white;
+    margin: auto auto;
+    width: 70vh;
+    padding: 3%;
+}
